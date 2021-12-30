@@ -1,4 +1,4 @@
-site_name: "100 Great Bitcoin Questions"
+site_name: "100 Great Bitcoin Stack Exchange Questions"
 
 theme:
   name: material
@@ -21,3 +21,9 @@ theme:
 
 plugins:
   - search
+
+# page tree
+nav:
+  - Home: index.md
+  - Transactions:
+    - "Q1": q1.md

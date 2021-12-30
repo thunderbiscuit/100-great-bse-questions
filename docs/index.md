@@ -1,5 +1,5 @@
-# Welcome to MkDocs
-
+# 100 Great Bitcoin Stack Exchange Questions and their Answers
+<!-- 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
@@ -14,4 +14,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        ...       # Other markdown pages, images and other files. -->
