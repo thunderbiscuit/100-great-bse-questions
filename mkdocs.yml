@@ -3,9 +3,13 @@ site_name: "100 Great Bitcoin Stack Exchange Questions"
 theme:
   name: material
   
+  icon:
+    logo: material/bitcoin
+
   features:
     - navigation.instant
     - navigation.tracking
+    - navigation.tabs
   
   palette: 
     - scheme: default
@@ -25,5 +29,21 @@ plugins:
 # page tree
 nav:
   - Home: index.md
+
   - Transactions:
-    - "Q1": q1.md
+    - "Q1": "transactions/q1.md"
+
+  - Wallets:
+    - "Q20": "wallets/q0.md"
+
+  - Nodes:
+    - "Q40": "nodes/q0.md"
+
+  - Mining:
+    - "Q50": "mining/q0.md"
+
+  - Cryptography:
+    - "Q70": "cryptography/q0.md"
+
+  - History:
+    - "Q90": "history/q0.md"
