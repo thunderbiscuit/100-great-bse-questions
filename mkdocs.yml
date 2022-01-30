@@ -34,16 +34,17 @@ nav:
     - "Q1": "transactions/q1.md"
 
   - Wallets:
-    - "Q20": "wallets/q0.md"
+    - "Q21": "wallets/q21.md"
+    - "Q22": "wallets/q22.md"
 
-  - Nodes:
-    - "Q40": "nodes/q0.md"
+  - Nodes & P2P:
+    - "Q41": "nodes-p2p/q41.md"
 
   - Mining:
-    - "Q50": "mining/q0.md"
+    - "Q61": "mining/q0.md"
 
   - Cryptography:
-    - "Q70": "cryptography/q0.md"
+    - "Q71": "cryptography/q0.md"
 
   - History:
-    - "Q90": "history/q0.md"
+    - "Q91": "history/q91.md"
